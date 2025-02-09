@@ -73,7 +73,7 @@
     <img src="https://axios-http.com/assets/logo.svg" alt="axios" width="50" height="50"/> 
   </a>
   <a href="https://react-query.tanstack.com/" target="_blank" rel="noreferrer">
-    <img src="https://react-query.tanstack.com/_next/static/images/logo-a830dce6b422370c23a4d2550fd9bfdc.svg" alt="react-query" width="50" height="50"/> 
+    <img src="https://tanstack.com/_build/assets/logo-color-100w-br5_Ikqp.png" alt="react-query" width="50" height="50"/> 
   </a>
 </p>
 
