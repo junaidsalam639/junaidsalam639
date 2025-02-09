@@ -10,7 +10,7 @@
 ---
 
 ### About Me 🌱
-- 🎓 🚀 Passionate Frontend Developer at HNH Tech Solutions for 2+ years. 💻 Skilled in building modern, scalable web apps with React.js ⚛️ & Next.js ⚡**
+- 🎓 🚀 Passionate Frontend Developer at HNH Tech Solutions for 3+ years. 💻 Skilled in building modern, scalable web apps with React.js ⚛️ & Next.js ⚡**
 - 💻 All of my projects are available at [github.com/junaidsalam639](https://github.com/junaidsalam639).
 - 📫 How to reach me: **junaidsalam639@gmail.com**
 - ⚡ Fun fact: **I am funny 😎**
