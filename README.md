@@ -10,10 +10,10 @@
 ---
 
 ### About Me 🌱
-- I’m currently learning **Saylani Mass IT Training.**
-- All of my projects are available at [github.com/junaidsalam639](https://github.com/junaidsalam639).
-- How to reach me: **junaidsalam639@gmail.com**
-- Fun fact: **I am funny 😎**
+- 🎓 I’m currently learning **Saylani Mass IT Training.**
+- 💻 All of my projects are available at [github.com/junaidsalam639](https://github.com/junaidsalam639).
+- 📫 How to reach me: **junaidsalam639@gmail.com**
+- ⚡ Fun fact: **I am funny 😎**
 
 ---
 
@@ -24,6 +24,9 @@
   </a>
   <a href="mailto:junaidsalam639@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
@@ -81,9 +84,9 @@
 
 ### GitHub Stats 📊
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=junaidsalam639&show_icons=true&locale=en&layout=compact" alt="junaidsalam639" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=junaidsalam639&show_icons=true&locale=en" alt="junaidsalam639" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=junaidsalam639&" alt="junaidsalam639" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=junaidsalam639&show_icons=true&locale=en&layout=compact&theme=radical" alt="junaidsalam639" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=junaidsalam639&show_icons=true&locale=en&theme=radical" alt="junaidsalam639" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=junaidsalam639&theme=radical" alt="junaidsalam639" />
 </p>
 
 ---
