@@ -11,8 +11,8 @@
 - 💻 **Senior MERN Stack Developer** at **HNH Tech Solutions**.
 - 📱 Expert in **React Native** (Android & iOS) and **Next.js** architectures.
 - 🎓 Pursuing **Bachelor of Computer Science** at Virtual University.
-- 🏆 **Hackathon Winner** recognized for rapid application development[cite: 1].
-- 🛠️ Specialized in transforming complex **Figma designs** into pixel-perfect interfaces[cite: 1].
+- 🏆 **Hackathon Winner** recognized for rapid application development.
+- 🛠️ Specialized in transforming complex **Figma designs** into pixel-perfect interfaces.
 
 ---
 
